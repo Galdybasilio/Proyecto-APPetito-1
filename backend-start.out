@@ -1,0 +1,4 @@
+
+> proyect-appetito@1.0.0 start:backend
+> Backend\venv\Scripts\python.exe -m uvicorn app.main:app --reload --port 8000 --app-dir Backend
+
